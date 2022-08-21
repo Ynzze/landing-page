@@ -4,7 +4,7 @@
 body {
     display: flex;
     flex-direction: column;
-    font-family: 'Roboto', sans-serif;
+    font-family: sans-serif;
     margin: 0;
     
 }
@@ -111,4 +111,31 @@ ul {
 .subtext {
     text-align: center;
     color: #7b7b7b;
+}
+
+.quote-section {
+    padding: 125px 0px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #5a5a5a;
+    margin: 0px;
+}
+
+.wrapper {
+    width: 750px;
+
+}
+
+.thor {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-family: sans-serif;
 }
