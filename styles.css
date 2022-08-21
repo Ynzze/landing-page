@@ -172,3 +172,11 @@ ul {
 .button-two {
     border: white 2px solid;
 }
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #e5e7eb;
+    padding: 50px 0px;
+    margin: 0;
+}
